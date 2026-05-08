@@ -9,7 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		Abstract builder.cs = Abstract builder.cs
+		Adapter.cs = Adapter.cs
 		Builder.cs = Builder.cs
+		Prototype.cs = Prototype.cs
+		Singlenton.cs = Singlenton.cs
 	EndProjectSection
 EndProject
 Global
